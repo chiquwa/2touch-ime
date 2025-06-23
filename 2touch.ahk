@@ -327,8 +327,8 @@ NumpadDiv::HandleKey("NumpadDiv")
 ; *キーでスペース
 NumpadMult::Send("{Space}")
 
-; .キーでスペース
-NumpadDot::Send("{Space}")
+; .キーで全角半角ボタン
+NumpadDot::Send("{vkF3sc029}")
 
 ; +キーでリセット
 NumpadAdd::ResetKey()
