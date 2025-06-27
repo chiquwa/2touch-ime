@@ -1,5 +1,5 @@
 
-[!Sponsor](https://github.com/sponsors)
+[!Sponsor](https://github.com/sponsors/chiquwa)
 
 テンキー2タッチ日本語入力システム（AutoHotkey v2対応）
 
@@ -87,6 +87,7 @@ SNS
     🔗 Note記事一覧は:      https://note.com/chiquwa
     🔗 EXEファイルの購入:   https://note.com/chiquwa/n/n59973d490326
     🔗 YouTube：            https://youtu.be/7_C7cDYGKiA
+    [!Sponsor](https://github.com/sponsors/chiquwa)
 
 作者
     このスクリプトは、家族が片手で操作できる入力方法を探していたことをきっかけに開発しました。
