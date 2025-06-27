@@ -1,3 +1,6 @@
+
+[!Sponsor](https://github.com/sponsors)
+
 テンキー2タッチ日本語入力システム（AutoHotkey v2対応）
 
 概要
