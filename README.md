@@ -77,6 +77,13 @@
 更新履歴
     バージョン	日付	内容
     0.1.0	2025-06-18	初版リリース
+    
+SNS
+    🔗 GitHubリポジトリ:    https://github.com/chiquwa/2touch-ime
+    🔗 Zenn記事一覧は:      https://zenn.dev/chiquwagohan
+    🔗 Note記事一覧は:      https://note.com/chiquwa
+    🔗 EXEファイルの購入:   https://note.com/chiquwa/n/n59973d490326
+    🔗 YouTube：            https://youtu.be/7_C7cDYGKiA
 
 作者
     このスクリプトは、家族が片手で操作できる入力方法を探していたことをきっかけに開発しました。
